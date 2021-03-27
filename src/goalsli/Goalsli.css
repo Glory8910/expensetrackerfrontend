@@ -1,0 +1,18 @@
+.listofgoals{
+
+    height: 120px ;
+}
+.desce{
+  width: 75%;
+  text-align: left;
+  font-size: medium;
+}
+/* .listofgoals  li.minus {
+    height: 180px;
+    border-right: 10px solid #c0392b;
+  }
+
+  .listofgoals li.plus{
+    height: 180px;
+    border-right: 10px solid #2ecc71;
+  } */

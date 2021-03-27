@@ -1,0 +1,92 @@
+.overall{
+    height: 180px;
+    margin-top:20px;
+}
+.resultbox{
+    text-align: center;
+    padding:40px;
+
+}
+.green{
+    color:rgb(63, 185, 63);
+}
+.red{
+    color:red;
+}
+.centering{
+    text-align: center;
+}
+li{
+
+    
+    font-weight: bold;
+    font-size: large;
+
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+}
+.list li.plus {
+
+    border-right: 10px solid #2ecc71;
+  }
+  
+  .list li.minus {
+   
+    border-right: 10px solid #c0392b;
+  }
+  .list {
+      border:rgb(248, 248, 247) solid 2px;
+  }
+  .value{
+    padding: 10px ;
+    right: 70px;
+  float: right;
+  
+}
+  .deletebtn {
+    cursor: pointer;
+    background-color: #e74c3c;
+    border: 1px ;
+    color: #fff;
+    font-size: 20px;
+    line-height: 35px;
+    padding: 2px 5px;
+    width: 40px;
+   border-radius: 50px ;
+   float: right;
+   
+  }
+
+  li:hover{
+      border:rgb(248, 248, 248) solid 2px;
+  }
+  .entryarea{
+      width: 100%;
+
+  }
+  .formbottom{
+      margin: 25px;
+      padding: 0px 50px;
+
+  }
+  label{
+      font-size: large;
+  }
+  input{
+      padding: 5px;
+      margin-top: 5px;
+      border:grey solid 1px;
+      width: 100%;
+  }
+/* .centerpic{
+    background: linen;
+} */
+.purp{
+    background-color: rgb(66, 2, 27) !important;
+    color:rgb(245, 235, 235)!important;
+}
+.purp:hover{
+    background-color: rgb(122, 63, 63)!important;
+    color:white!important;
+}
